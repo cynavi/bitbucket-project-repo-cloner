@@ -1,0 +1,9 @@
+bitbucket:
+  project-key: key
+  username: username
+  password: password
+
+sync:
+  base:
+    path: path
+  type: FORCE_CLONE # CLONE or FORCE_CLONE
